@@ -1,0 +1,11 @@
+void main()
+{
+	int i = 2;
+	if(i == 8)
+	{
+		return 0;
+	}else{
+		return 1;
+	}
+	
+}
